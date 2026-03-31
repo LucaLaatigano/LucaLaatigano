@@ -9,13 +9,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Full Stack Developer & Computer Engineering Student</h2></summary>
+    <summary><h2 style="display: inline-block">FrontEnd Developer & Computer Engineering Student</h2></summary>
   </ul>
 </div>
 
-- 🔭 I’m currently working on **Scalable Dashboards & CRUD APIs**
+- 🔭 I’m currently working on **Dashboards & CRUD APIs**
 
-- 🌱 I’m currently learning **Advanced Node.js & Computer Architecture**
+- 🌱 I’m currently learning **Node.js & Express**
 
 - 💬 Ask me about **React, Node.js, GSAP and Digital Logic**
 
@@ -25,7 +25,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucaLaatigano&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLaatigano&theme=dark&hide_border=false" /> 
 </td>

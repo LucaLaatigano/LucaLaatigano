@@ -25,9 +25,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucaLaatigano&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLaatigano&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -54,8 +54,8 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luca-latigano-523ab0339/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.fiverr.com/lucalatigano/buying?source=avatar_menu_profile" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/fiverr.png" alt="fiverr" height="50" width="50" /></a> 
+<a href="https://www.linkedin.com/in/luca-latigano-523ab0339/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.fiverr.com/lucalatigano/buying?source=avatar_menu_profile" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/fiverr.png" alt="fiverr" height="50" width="50" /></a> 
 </p>
 
 <!--horizontal divider(gradiant)-->

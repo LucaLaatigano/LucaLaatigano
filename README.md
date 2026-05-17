@@ -21,6 +21,8 @@
 
 - 📫 How to reach me: **lucalatigano12@gmail.com**
 
+- 🔍 My Portfolio: https://lucalatigano.vercel.app/
+
 <p align="center">
 <table align="center">
 <tr border="none">

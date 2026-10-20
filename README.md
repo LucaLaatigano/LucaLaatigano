@@ -9,15 +9,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">FrontEnd Developer & Computer Engineering Student</h2></summary>
+    <summary><h2 style="display: inline-block">Full Stack Developer & Computer Engineering Student</h2></summary>
   </ul>
 </div>
 
-- 🔭 I’m currently working on **Dashboards & CRUD APIs**
-
-- 🌱 I’m currently learning **Node.js & Express**
-
-- 💬 Ask me about **React, Node.js, GSAP and Digital Logic**
+- 🔭 I’m currently working on **Full stack web applications and building desktop apps**
+  
+- 🌱 I’m currently learning **Typescript & PostgreSQL**
 
 - 📫 How to reach me: **lucalatigano12@gmail.com**
 
@@ -44,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,py,java,git,vscode,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,py,java,git,vscode,figma,typescript,mysql,postgresql,sqlite,pnpm,cloudfare&perline=14" />
   </a>
 </p>
 
